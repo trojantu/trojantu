@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Anthony Mwanzia, a **Software Developer** soft not (particularly **javascript**),  i am well aware of using js frameworks especiall node for backend projects with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.I also provide payment intergration services for businesses,if you need your app or website intergrated reach out(Mpesa,card and paypal.)
+I am Anthony Mwanzia, a **Software Developer** soft not (particularly **javascript**),  my main tech stack is js,i use node framework mostly for backend projects  with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.I also provide payment intergration services for businesses,if you need your app or website intergrated reach out(Mpesa,card and paypal.)
 
 ### Languages
 
