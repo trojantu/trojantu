@@ -1,8 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Sup g's! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
 
-I am Anthony Mwanzia, a **FrontEnd Developer** (particularly **React Js**), with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.
+I am Anthony Mwanzia, a **Software Developer** soft not (particularly **javascript**),  i am well aware of using js frameworks especiall node for backend projects with a keen eye for detail and beautiful design, create and maintain a better code base for re-usability, capable of continuous learning.I also provide payment intergration services for businesses,if you need your app or website intergrated reach out(Mpesa,card and paypal.)
 
 ### Languages
 
@@ -13,7 +13,7 @@ I am Anthony Mwanzia, a **FrontEnd Developer** (particularly **React Js**), with
 
 <!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
 
-### Front-End Development
+### BASICS
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
